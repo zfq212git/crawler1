@@ -1,5 +1,3 @@
-
-#this is a test
 import scrapy
 
 import scrapy
